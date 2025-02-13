@@ -24,7 +24,7 @@ To set up the project, follow these steps:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/hash-walker/AI_351_SVM_image_classification.git
+   git clone https://github.com/muhammadtaimoor9583/Trash-Classification-Using-Support-Vector-Machines-SVM---AI-351-Project
    ```
 2. **Navigate to the project directory:**
    ```bash
@@ -68,5 +68,4 @@ This project is licensed under the **MIT License**. Feel free to use and modify 
 
 ---
 
-**Author:** [Hash Walker](https://github.com/hash-walker)  
 For any inquiries or contributions, feel free to reach out via GitHub.
